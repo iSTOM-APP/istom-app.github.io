@@ -1,1 +1,2 @@
-# istom-app.github.io
+# istom.app
+Стоматология
