@@ -1,2 +1,2 @@
-# iSTOM-APP.github.io
+# istom-app.github.io
 iSTOM APP - Стоматология
